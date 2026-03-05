@@ -16,9 +16,15 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Scrum Master: facilitates agile ceremonies, removes impediments, and coaches the team. *(Added per [issue #4](https://github.com/auri-gabriel/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4))*
+- UX Designer: advocates for user needs; produces wireframes, prototypes, and design specs. *(Added per [issue #4](https://github.com/auri-gabriel/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4))*
+- Data Analyst: tracks KPIs, provides metrics, and supports data-driven decisions. *(Added per [issue #4](https://github.com/auri-gabriel/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4))*
+- Release Manager: coordinates release readiness, deployment windows, and rollback plans. *(Added per [issue #4](https://github.com/auri-gabriel/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4))*
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+
+> See [Roles & Personas](octoacme-roles-and-personas.md) for full responsibility descriptions and role interaction touchpoints.
 
 ## Key Artifacts
 - Project Charter / One-pager

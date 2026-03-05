@@ -10,7 +10,7 @@ During **Execution & Tracking**, teams operate with a steady rhythm: daily stand
 
 **Risk Management & Communication** runs as a continuous activity: risks are captured in a living Risk Register, assessed for impact and likelihood, and reviewed at weekly syncs. Stakeholders receive regular status updates using consistent templates, and a clear escalation path (team → PM → Product Lead → Sponsor) ensures issues surface quickly. After each release or milestone, a **Retrospective** captures what went well and what can be improved, turning lessons learned into actionable backlog items that drive OctoAcme's culture of continuous improvement.
 
-Key **roles** span Product Manager (owns vision and backlog), Project Manager (coordinates delivery, risks, and communications), Developers (implement and test features), QA (validates acceptance criteria), and Stakeholders (provide inputs and approvals). Core **artifacts** include the Project Charter/One-pager, Roadmap and Release Plan, Sprint Backlog, Risk Register, and Retrospective Notes — all maintained in the project repository for transparency and easy access.
+Key **roles** span Product Manager (owns vision and backlog), Project Manager (coordinates delivery, risks, and communications), Scrum Master (facilitates agile ceremonies and removes blockers), UX Designer (translates user needs into designs), Data Analyst (provides metrics and KPI tracking), Release Manager (coordinates deployments and release readiness), Developers (implement and test features), QA (validates acceptance criteria), and Stakeholders (provide inputs and approvals). Core **artifacts** include the Project Charter/One-pager, Roadmap and Release Plan, Sprint Backlog, Risk Register, and Retrospective Notes — all maintained in the project repository for transparency and easy access. See [Roles & Personas](octoacme-roles-and-personas.md) for full role descriptions, interaction touchpoints, and the escalation path. *(Roles expanded per [issue #4](https://github.com/auri-gabriel/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4))*
 
 ## Docs Index
 
@@ -22,3 +22,4 @@ Key **roles** span Product Manager (owns vision and backlog), Project Manager (c
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](octoacme-roles-and-personas.md)
+- [Coordination Templates & Checklists](octoacme-coordination-templates.md) *(Added per [issue #4](https://github.com/auri-gabriel/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4))*
